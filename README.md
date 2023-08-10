@@ -1,3 +1,10 @@
+## [Demo version](https://rick-and-morty-characters-web.netlify.app/)
+
+#### Preview:
+![preview](/public/preview.png)
+![preview](/public/preview2.png)
+![preview](/public/preview3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
